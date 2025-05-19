@@ -3,7 +3,7 @@
 <img
   src="/img/IMG_6674.JPEG"
   alt="Wakíŋyan Páha, Wakpá Wašté Oyáŋke"
-  height="50%">
+  width="50%">
 
 ### Introduction
 
