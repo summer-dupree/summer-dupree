@@ -2,7 +2,7 @@
 
 #### Introduction
 
-Haŋ, mithákuyapi. Summer Dupree emáčiyapi. Mnikȟówožu MaLakȟóta na Wakpá Wašté Oyáŋke hemátaŋhaŋ. <br>
+Haŋ, mitákuyepi. Summer Dupree emáčiyapi. Mnikȟówožu MaLakȟóta na Wakpá Wašté Oyáŋke hemátaŋhaŋ. <br>
 _Hello, my relatives. My name is Summer Dupree. I am of the Plants-by-the-Waters band of Lakota, and I'm from the Cheyenne River Reservation in South Dakota._
 
 
@@ -16,5 +16,5 @@ I'm interested in learning more about how to utilize publicly available remote s
 
 
 #### Contact Information
-* [Email](sdupree27886@olc.edu)
+* [Email]<sdupree27886@olc.edu>
 * [Github](https://github.com/summer-dupree)
