@@ -16,5 +16,5 @@ I'm interested in learning more about how to utilize publicly available remote s
 
 
 #### Contact Information
-* [Email]<sdupree27886@olc.edu>
+* <sdupree27886@olc.edu>
 * [Github](https://github.com/summer-dupree)
