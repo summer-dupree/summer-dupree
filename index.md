@@ -3,7 +3,7 @@
 ### Introduction
 
 Haŋ, mitákuyepi. Summer Dupree emáčiyapi. Mnikȟówožu MaLakȟóta na Wakpá Wašté Oyáŋke hemátaŋhaŋ. <br>
-_Hello, my relatives. My name is Summer Dupree. I am of the Plants-by-the-Waters band of Lakota, and I'm from the Cheyenne River Reservation in South Dakota._
+_Hello, relatives. My name is Summer Dupree. I am of the Plants-by-the-Waters band of Lakota, and I'm from the Cheyenne River Reservation in South Dakota._
 
 
 ### Educational Background
