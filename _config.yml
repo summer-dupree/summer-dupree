@@ -1,3 +1,11 @@
 title: Summer Dupree's Webpage
-description: ESIIL Stars 2025 Portfolio
-theme: jekyll-theme-cayman
+author: Summer Dupree
+  name: summer-dupree
+  email: sdupree27886@olc.edu
+
+description: >
+  ESIIL Stars 2025 Portfolio
+
+theme: minima
+
+minima: auto
