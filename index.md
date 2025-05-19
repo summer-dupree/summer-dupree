@@ -5,6 +5,8 @@
   alt="Wakíŋyan Páha, Wakpá Wašté Oyáŋke"
   width="50%">
 
+![](/img/IMG_6674.JPEG)
+
 ### Introduction
 
 Haŋ, mitákuyepi. Summer Dupree emáčiyapi. Mnikȟówožu MaLakȟóta na Wakpá Wašté Oyáŋke hemátaŋhaŋ. <br>
