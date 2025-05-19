@@ -1,6 +1,11 @@
 # Summer Dupree
 
-![Mičíŋkšipi na miye, Wakíŋyan Páha, Wakpá Wašté Oyáŋke](/img/IMG_6674.JPEG)
+<img
+  src="/img/IMG_6674.JPEG"
+  alt="Wakíŋyan Páha, Wakpá Wašté Oyáŋke"
+  height="50%">
+
+![Wakíŋyan Aglípi, Wakíŋyan Páha, Wakpá Wašté Oyáŋke](/img/IMG_6674.JPEG)
 
 ### Introduction
 
