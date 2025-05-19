@@ -1,5 +1,7 @@
 # Summer Dupree
 
+![Mičíŋkšipi na miye, Wakíŋyan Páha, Wakpá Wašté Oyáŋke](/img/IMG_6674.JPEG)
+
 ### Introduction
 
 Haŋ, mitákuyepi. Summer Dupree emáčiyapi. Mnikȟówožu MaLakȟóta na Wakpá Wašté Oyáŋke hemátaŋhaŋ. <br>
