@@ -3,7 +3,7 @@
 <img
   src="/img/IMG_6280.jpg"
   alt="Ȟe Ska"
-  width="33%" >
+  width="50%" >
 
 ### Introduction
 
