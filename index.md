@@ -1,5 +1,3 @@
-# Summer Dupree
-
 <img
   src="/img/IMG_6280.jpg"
   alt="Ȟe Ska"
