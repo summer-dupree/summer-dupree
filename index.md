@@ -1,11 +1,11 @@
 # Summer Dupree
 
 <img
-  src="/img/IMG_6674.JPEG"
-  alt="Wakíŋyan Páha, Wakpá Wašté Oyáŋke"
-  width="50%">
+  src="/img/IMG_6280.jpg"
+  alt="Ȟe Ska"
+  width="33%" >
 
-![](/img/IMG_6674.JPEG)
+![](/img/IMG_6280.jpg)
 
 ### Introduction
 
